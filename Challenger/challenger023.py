@@ -1,5 +1,5 @@
 print ("="*19)
-print("==>Challenger049<==")
+print("==>Challenger023<==")
 print ("="*19)
 print("Faça um programa que leia um  número de 0 à 9999 e mostre cada um dos digitos separadamente \n"
       "Ex: 1789 unidade: 9 dezena: 8 centena: 7 e milhar: 1")

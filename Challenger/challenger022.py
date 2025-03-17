@@ -20,5 +20,5 @@ print("Seu primeiro nome tem {} letras".format(name.find(" ")))
 
 # Outra forma de contar a quantidade de letras do primeiro nome é separar o nome.
 splitName =name.split()
-print("Seu primeiro noome é {} e ele tem {} letrar".format(splitName[0], len(splitName[0])))
+print("Seu primeiro nome é {} e ele tem {} letrar".format(splitName[0], len(splitName[0])))
 
