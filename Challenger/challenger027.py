@@ -1,7 +1,5 @@
-from tkinter.font import names
-
 print ("="*19)
-print("==>Challenger024<==")
+print("==>Challenger027<==")
 print ("="*19)
 print("Faça um programa que leia um nome e faça:")
 print("=> Printe uma mensagem de saudação apenas com o primeiro nome")

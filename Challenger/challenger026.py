@@ -1,5 +1,5 @@
 print ("="*19)
-print("==>Challenger024<==")
+print("==>Challenger026<==")
 print ("="*19)
 print("Faça um programa que leia uma pelo teclado e moostre:")
 print("=> Quantas vezes aparece a letra 'A'")
